@@ -1,0 +1,43 @@
+.orangeBox{
+    background-color: orange;
+    width: 100%;
+    height: 100px;
+
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid rgb(16, 188, 201);
+    margin: 50px;
+ /* text-align: center; */
+}
+
+.paraDecor{
+    background-color: lightblue;
+    color: white;
+    font: bold;
+    width: 50%;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid lavender;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 3em;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+.pinkBox{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 100px;
+
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid red;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+.blueBox{
+    background-color: coral;
+    color: aliceblue;
+    font: bold;
+}
+
